@@ -16,74 +16,26 @@ import com.google.android.material.navigation.NavigationView;
 
 public class MainActivity extends AppCompatActivity  {
 
-    ImageButton lawangsewupic, wakatobipic, tanahlotpic, bromopic, sentanipic, pulaukpic;
+    ImageButton lawangsewu, wakatobi, tanahlot, bromo, sentani, pulauk;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        lawangsewupic = (ImageButton) findViewById(R.id.lawangsewupic);
-        wakatobipic = (ImageButton) findViewById(R.id.wakatobipic);
-        tanahlotpic = (ImageButton) findViewById(R.id.tanahlotpic);
-        bromopic = (ImageButton) findViewById(R.id.bromopic);
-        sentanipic = (ImageButton) findViewById(R.id.sentanipic);
-        pulaukpic = (ImageButton) findViewById(R.id.pulaukpic);
+        lawangsewu = (ImageButton) findViewById(R.id.imageButton);
+        wakatobi = (ImageButton) findViewById(R.id.wakatobipic);
+        tanahlot = (ImageButton) findViewById(R.id.tanahlotpic);
+        bromo = (ImageButton) findViewById(R.id.bromopic);
+        sentani = (ImageButton) findViewById(R.id.sentanipic);
+        pulauk = (ImageButton) findViewById(R.id.pulaukpic);
 
-
-        lawangsewupic.setOnClickListener(new View.OnClickListener() {
+        lawangsewu.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent lawangsewupic =new Intent(getApplicationContext(), smg.class);
-                startActivity(lawangsewupic);
+                Intent intent = new Intent(MainActivity.this,smg.class);
+                startActivity(intent);
             }
         });
-
-        wakatobipic.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                Intent wakatobipic =new Intent(getApplicationContext(), sulteng.class);
-                startActivity(wakatobipic);
-            }
-        });
-
-        tanahlotpic.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                Intent tanahlotpic =new Intent(getApplicationContext(), bali.class);
-                startActivity(tanahlotpic);
-            }
-        });
-
-        bromopic.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                Intent bromopic =new Intent(getApplicationContext(), malang.class);
-                startActivity(bromopic);
-            }
-        });
-
-        sentanipic.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                Intent sentanipic =new Intent(getApplicationContext(), papua.class);
-                startActivity(sentanipic);
-            }
-        });
-
-        pulaukpic.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                Intent pulaukpic =new Intent(getApplicationContext(), ntt.class);
-                startActivity(pulaukpic);
-            }
-        });
-
-
     }
-
-
-
-
-
 }
 

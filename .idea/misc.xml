@@ -3,8 +3,26 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/CCIT/SEMESTER 4/Q2/PROJEK/PROJEK 2/Travelling/app/src/main/res/drawable-v24/admin.xml" value="0.1745" />
+        <entry key="..\:/CCIT/SEMESTER 4/Q2/PROJEK/PROJEK 2/Travelling/app/src/main/res/drawable/ic_baseline_arrow_back_ios_24.xml" value="0.1745" />
+        <entry key="..\:/CCIT/SEMESTER 4/Q2/PROJEK/PROJEK 2/Travelling/app/src/main/res/drawable/rounded.xml" value="0.1745" />
+        <entry key="..\:/CCIT/SEMESTER 4/Q2/PROJEK/PROJEK 2/Travelling/app/src/main/res/drawable/text.xml" value="0.1745" />
+        <entry key="..\:/CCIT/SEMESTER 4/Q2/PROJEK/PROJEK 2/Travelling/app/src/main/res/drawable/tiket.xml" value="0.1745" />
+        <entry key="..\:/CCIT/SEMESTER 4/Q2/PROJEK/PROJEK 2/Travelling/app/src/main/res/layout/activity_data.xml" value="0.13541666666666666" />
+        <entry key="..\:/CCIT/SEMESTER 4/Q2/PROJEK/PROJEK 2/Travelling/app/src/main/res/layout/activity_login.xml" value="0.13541666666666666" />
         <entry key="..\:/CCIT/SEMESTER 4/Q2/PROJEK/PROJEK 2/Travelling/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/CCIT/SEMESTER 4/Q2/PROJEK/PROJEK 2/Travelling/app/src/main/res/layout/activity_payment.xml" value="0.13541666666666666" />
+        <entry key="..\:/CCIT/SEMESTER 4/Q2/PROJEK/PROJEK 2/Travelling/app/src/main/res/layout/activity_show_data.xml" value="0.13541666666666666" />
+        <entry key="..\:/CCIT/SEMESTER 4/Q2/PROJEK/PROJEK 2/Travelling/app/src/main/res/layout/activity_traveller.xml" value="0.13541666666666666" />
+        <entry key="..\:/CCIT/SEMESTER 4/Q2/PROJEK/PROJEK 2/Travelling/app/src/main/res/layout/bali.xml" value="0.13541666666666666" />
+        <entry key="..\:/CCIT/SEMESTER 4/Q2/PROJEK/PROJEK 2/Travelling/app/src/main/res/layout/item.xml" value="0.13541666666666666" />
+        <entry key="..\:/CCIT/SEMESTER 4/Q2/PROJEK/PROJEK 2/Travelling/app/src/main/res/layout/malang.xml" value="0.13541666666666666" />
+        <entry key="..\:/CCIT/SEMESTER 4/Q2/PROJEK/PROJEK 2/Travelling/app/src/main/res/layout/ntt.xml" value="0.13541666666666666" />
+        <entry key="..\:/CCIT/SEMESTER 4/Q2/PROJEK/PROJEK 2/Travelling/app/src/main/res/layout/papua.xml" value="0.13541666666666666" />
+        <entry key="..\:/CCIT/SEMESTER 4/Q2/PROJEK/PROJEK 2/Travelling/app/src/main/res/layout/smg.xml" value="0.13541666666666666" />
+        <entry key="..\:/CCIT/SEMESTER 4/Q2/PROJEK/PROJEK 2/Travelling/app/src/main/res/layout/update_popup.xml" value="0.13541666666666666" />
         <entry key="..\:/CCIT/SEMESTER 4/Q2/PROJEK/PROJEK 2/Travelling/app/src/main/res/menu/nav_bottom_bar.xml" value="0.1796875" />
+        <entry key="..\:/CCIT/SEMESTER 4/Q2/PROJEK/PROJEK 2/Travelling/app/src/main/res/menu/option_menu.xml" value="0.1796875" />
         <entry key="app/src/main/res/drawable-v24/admin.xml" value="0.1175" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.24414672851562502" />
         <entry key="app/src/main/res/layout/activity_traveller.xml" value="0.36492890995260663" />

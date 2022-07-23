@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "444796537101",
+    "firebase_url": "https://superb-joy-351915-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "superb-joy-351915",
+    "storage_bucket": "superb-joy-351915.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444796537101:android:484fe40530f8d012954844",
+        "android_client_info": {
+          "package_name": "com.example.projek_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444796537101-7u3onr1gtr78h88p42tojloaunjlsiqc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIDDrzkqHUIt2AGSxYZL3jsiBO5gaAOuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444796537101-7u3onr1gtr78h88p42tojloaunjlsiqc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444796537101:android:d82ae7483fbb7a9c954844",
+        "android_client_info": {
+          "package_name": "com.example.recycleview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444796537101-7u3onr1gtr78h88p42tojloaunjlsiqc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIDDrzkqHUIt2AGSxYZL3jsiBO5gaAOuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444796537101-7u3onr1gtr78h88p42tojloaunjlsiqc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444796537101:android:8dd5b0e04000aeb8954844",
+        "android_client_info": {
+          "package_name": "com.example.travell"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444796537101-7u3onr1gtr78h88p42tojloaunjlsiqc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIDDrzkqHUIt2AGSxYZL3jsiBO5gaAOuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444796537101-7u3onr1gtr78h88p42tojloaunjlsiqc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444796537101:android:d4c2648b7ae23284954844",
+        "android_client_info": {
+          "package_name": "com.example.travelling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444796537101-7u3onr1gtr78h88p42tojloaunjlsiqc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIDDrzkqHUIt2AGSxYZL3jsiBO5gaAOuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444796537101-7u3onr1gtr78h88p42tojloaunjlsiqc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

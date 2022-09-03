@@ -59,6 +59,7 @@ public class Adapter extends RecyclerView.Adapter<Adapter.MyViewHolder> {
         holder.lastname.setText((database.getAddress()));
         holder.dateTravell.setText((database.getDateTravel()));
 
+
         holder.btnedit.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
